@@ -2,7 +2,7 @@
 	 téléporte le joueur qui touche la part "source"
 	       vers une autre part nommée "target".
 
-	ce sript doit etre mis dans le fichier "scipt" de "source"
+	ce sript doit etre mis dans le fichier "scipt" de l'Objet "source"
 ]]
 
 local source = script.Parent
